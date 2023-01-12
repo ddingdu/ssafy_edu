@@ -24,7 +24,7 @@ code block
 
 [네이버로](http://www.naver.com)
 
-![대체 텍스트](image.jpg)
+![대체 텍스트](/hi.jpg)
 
 | 테이블1 | 설명1
 | ----- | ----- |
