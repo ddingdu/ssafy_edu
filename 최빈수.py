@@ -1,3 +1,4 @@
+    # 1204. 최빈수 구하기
 T = int(input())
 
 for tc in range(1,T+1):
