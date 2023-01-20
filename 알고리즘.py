@@ -109,11 +109,11 @@
 #     print(f"#{t} {s}")
 
 #     #중간값 찾기
-# N = int(input())
+N = int(input())
 
-# n = list(map(int, input().split()))
-# n.sort() #오름차순 정렬
-# i = n[N//2]
+n = list(map(int, input().split()))
+n.sort() #오름차순 정렬
+i = n[N//2]
 
 # print(i)
 
